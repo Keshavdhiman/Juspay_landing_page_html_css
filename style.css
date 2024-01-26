@@ -211,7 +211,7 @@
     padding-top: 100px;
 }
 .img3{
-    padding-left: 100px;
+    padding-left: 120px;
     padding-top: 50px;
     width: 480px;
 }
@@ -220,7 +220,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin-right: 150px;
+    margin-right: 120px;
     margin-top: 100px;
 }
 
@@ -238,7 +238,6 @@
     line-height: 1.1;
     margin: 0 0 1.45rem;
     padding: 0;
-    text-rendering: optimizeLegibility;
 }
 .content2 p{
     color:#fff;
